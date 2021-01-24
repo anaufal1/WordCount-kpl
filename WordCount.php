@@ -1,5 +1,5 @@
 <?php
-// File : WordCount.php
+
 class Wordcount
 {
     public function countWords($sentence)
